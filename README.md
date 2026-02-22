@@ -35,15 +35,6 @@ I'm a passionate **Information Technology Student** with a strong interest in we
 - 🔗 [Project Name](https://github.com/phlcdr/project-name) — Short description
 -->
 
----
-
-## 📊 GitHub Stats
-
-![phlcdr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phlcdr&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phlcdr&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-phlcdr-181717?style=for-the-badge&logo=github)](https://github.com/phlcdr)
