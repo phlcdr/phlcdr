@@ -1,6 +1,6 @@
 # Hi there, I'm phlcdr 👋
 
-I'm a passionate **Computer Science Student** who loves building web applications and learning new technologies.
+I'm a passionate **Information Technology Student** with a strong interest in web development and software engineering. I enjoy creating clean, functional, and user-friendly web applications using modern technologies. I'm a **vibe coder** — I code with creativity, flow, and passion using **AI-powered tools** to build faster, smarter, and better, turning ideas into reality one line at a time. I'm constantly improving my skills, working on real-world projects, and exploring new tools and frameworks to grow as a developer. My goal is to build meaningful solutions that make a difference through technology.
 
 ---
 
